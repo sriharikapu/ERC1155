@@ -1,8 +1,3 @@
-# ERC1155
-
-Multi Token Standard - Consolidated
-
-
 ---
 sections:
   - title: Core
@@ -11,6 +6,10 @@ sections:
       - ERC1155
       - IERC1155TokenReceiver
 ---
+
+# ERC1155
+
+Multi Token Standard - Consolidated
 
 Deployed Contract Can be found here [ERC1155 Multi Token Standard](https://rinkeby.etherscan.io/address/0x5ff4595c7f6d73fca8ee4368fbc27a7eaf00d54a#code).
 
